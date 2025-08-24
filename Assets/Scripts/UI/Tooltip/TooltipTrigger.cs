@@ -7,6 +7,7 @@ public class TooltipTrigger : MonoBehaviour, IPointerEnterHandler, IPointerExitH
 {
   [SerializeField] private string header;
   [SerializeField] private string content;
+  [SerializeField] private RectTransform tooltipBoundsWindow;
   private static LTDescr delay;
   private static TooltipTrigger currentTrigger;
 
@@ -22,7 +23,7 @@ public class TooltipTrigger : MonoBehaviour, IPointerEnterHandler, IPointerExitH
 
     delay = LeanTween.delayedCall(0.9f, () =>
     {
-      TooltipSystem.Show(content, header);
+      TooltipSystem.Show(content, tooltipBoundsWindow, header);
     });
   }
 

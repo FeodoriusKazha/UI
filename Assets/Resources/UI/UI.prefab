@@ -434,13 +434,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tooltip Canvas
       objectReference: {fileID: 0}
+    - target: {fileID: 3812645890459236342, guid: 192983526bea6a74da490ebfd81f0822, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7807466073330797613, guid: 192983526bea6a74da490ebfd81f0822, type: 3}
       propertyPath: m_Pivot.x
-      value: 1.0412027
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7807466073330797613, guid: 192983526bea6a74da490ebfd81f0822, type: 3}
       propertyPath: m_Pivot.y
-      value: 2.1899314
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7807466073330797613, guid: 192983526bea6a74da490ebfd81f0822, type: 3}
       propertyPath: m_SizeDelta.x
@@ -482,6 +486,14 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8829425844434011353, guid: 192983526bea6a74da490ebfd81f0822, type: 3}
+      propertyPath: targetWindow
+      value: 
+      objectReference: {fileID: 8352934743939630476}
+    - target: {fileID: 8829425844434011353, guid: 192983526bea6a74da490ebfd81f0822, type: 3}
+      propertyPath: tooltipCanvas
+      value: 
+      objectReference: {fileID: 6367909999746364988}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -490,5 +502,10 @@ PrefabInstance:
 --- !u!224 &1139156477365473338 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 1188172002628065691, guid: 192983526bea6a74da490ebfd81f0822, type: 3}
+  m_PrefabInstance: {fileID: 2283928522638592417}
+  m_PrefabAsset: {fileID: 0}
+--- !u!224 &8352934743939630476 stripped
+RectTransform:
+  m_CorrespondingSourceObject: {fileID: 7807466073330797613, guid: 192983526bea6a74da490ebfd81f0822, type: 3}
   m_PrefabInstance: {fileID: 2283928522638592417}
   m_PrefabAsset: {fileID: 0}

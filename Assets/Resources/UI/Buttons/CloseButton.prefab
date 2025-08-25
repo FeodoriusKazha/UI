@@ -362,4 +362,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   header: 
-  content: Button prefub
+  content: Close button
+  tooltipBoundsWindow: {fileID: 0}

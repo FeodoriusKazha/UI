@@ -60,7 +60,6 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\WindowsManager\WindowsManager.cs" />
     <Compile Include="Assets\Scripts\UI\Tooltip\TooltipSystem.cs" />
-    <Compile Include="Assets\Scripts\UI\Main\OpenWindowButton.cs" />
     <Compile Include="Assets\Scripts\UI\Main\MainViewController.cs" />
     <Compile Include="Assets\Scripts\UI\FlexibleGridLayout.cs" />
     <Compile Include="Assets\Scripts\WindowsManager\ViewController.cs" />
@@ -68,6 +67,7 @@
     <Compile Include="Assets\Scripts\UI\Tooltip\TooltipTrigger.cs" />
     <Compile Include="Assets\Shapes2D\Scripts\PolyMap.cs" />
     <Compile Include="Assets\Scripts\AppManager.cs" />
+    <Compile Include="Assets\Scripts\UI\Main\YesWindowController.cs" />
     <Compile Include="Assets\Shapes2D\Scripts\Shape.cs" />
     <Compile Include="Assets\Scripts\UI\Main\GenericStarter.cs" />
     <Compile Include="Assets\Scripts\UI\Main\AddDeviceWindowController.cs" />

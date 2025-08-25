@@ -146,7 +146,6 @@ GameObject:
   - component: {fileID: 7118355921078474247}
   - component: {fileID: 6413810624353219315}
   - component: {fileID: 372295416198130220}
-  - component: {fileID: 1496857053878617266}
   - component: {fileID: 8533992088193656407}
   - component: {fileID: 9006757841611604073}
   - component: {fileID: 3471801052636132708}
@@ -172,7 +171,7 @@ RectTransform:
   m_Children:
   - {fileID: 4035184089211439242}
   m_Father: {fileID: 0}
-  m_RootOrder: -1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -217,20 +216,6 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
---- !u!114 &1496857053878617266
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7320506259883936275}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b59281cc54d92d440ac1ee27aff40b21, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  group: Main
-  windowName: AddDeviceWindow
 --- !u!114 &8533992088193656407
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -378,3 +363,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   header: 
   content: Add new device
+  tooltipBoundsWindow: {fileID: 0}

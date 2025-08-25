@@ -383,4 +383,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   header: 
-  content: Add device name and short name
+  content: Add device name
+  tooltipBoundsWindow: {fileID: 0}

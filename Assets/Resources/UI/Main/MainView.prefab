@@ -114,6 +114,7 @@ MonoBehaviour:
   CloseAllChainOnClose: 1
   OnlyOneCanBeVisible: 0
   restoreHierarchyState: 1
+  newWindowButton: {fileID: 2658824313438606705}
 --- !u!1 &5714756946632932419
 GameObject:
   m_ObjectHideFlags: 0
@@ -798,10 +799,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 3908925958996416589}
     m_Modifications:
-    - target: {fileID: 372295416198130220, guid: 9a1541065554e1d419e8ea714d966a7d, type: 3}
-      propertyPath: m_Material
-      value: 
-      objectReference: {fileID: 0}
     - target: {fileID: 4035184089211439242, guid: 9a1541065554e1d419e8ea714d966a7d, type: 3}
       propertyPath: m_SizeDelta.x
       value: -39.6302
@@ -955,6 +952,17 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a1541065554e1d419e8ea714d966a7d, type: 3}
+--- !u!114 &2658824313438606705 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8533992088193656407, guid: 9a1541065554e1d419e8ea714d966a7d, type: 3}
+  m_PrefabInstance: {fileID: 5947247633975800614}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!224 &3477241567461680417 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 7118355921078474247, guid: 9a1541065554e1d419e8ea714d966a7d, type: 3}

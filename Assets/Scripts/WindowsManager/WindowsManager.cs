@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using UnityEditor.PackageManager.UI;
 using UnityEngine;
 
 public class WindowsManager : MonoBehaviour
@@ -112,7 +113,10 @@ public class WindowsManager : MonoBehaviour
 
     public Camera UICamera => GetComponentInParent<Camera>();
 
-    protected static WindowsManager instance;
+  private readonly Dictionary<ViewController, List<ViewController>> windowChains = new();
+
+
+  protected static WindowsManager instance;
 
     public static WindowsManager Instance
     {
@@ -378,7 +382,32 @@ public class WindowsManager : MonoBehaviour
         }
     }
 
-    private void ClearDestroyedWindows()
+  public void LinkWindows(ViewController parent, ViewController child)
+  {
+    if (!windowChains.ContainsKey(parent))
+      windowChains[parent] = new List<ViewController>();
+
+    if (!windowChains[parent].Contains(child))
+      windowChains[parent].Add(child);
+  }
+
+  public void CloseChain(ViewController root)
+  {
+    if (windowChains.TryGetValue(root, out var linked))
+    {
+      foreach (var wnd in linked)
+      {
+        if (wnd != null && wnd.gameObject.activeSelf)
+          wnd.Close();
+      }
+    }
+
+    root.Close();
+    windowChains.Remove(root);
+  }
+
+
+  private void ClearDestroyedWindows()
     {
         foreach (var wnd in LoadedPrefabs)
             wnd.Value.CleanUp();

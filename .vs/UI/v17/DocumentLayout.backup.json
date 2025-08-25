@@ -3,31 +3,35 @@
   "WorkspaceRootPath": "C:\\Work\\UI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB40B3AE-6C9A-B1E1-B01B-22B1E324FC0E}|Assembly-CSharp.csproj|c:\\work\\ui\\assets\\scripts\\windowsmanager\\windowsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB40B3AE-6C9A-B1E1-B01B-22B1E324FC0E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\windowsmanager\\windowsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB40B3AE-6C9A-B1E1-B01B-22B1E324FC0E}|Assembly-CSharp.csproj|c:\\work\\ui\\assets\\scripts\\windowsmanager\\viewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB40B3AE-6C9A-B1E1-B01B-22B1E324FC0E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\windowsmanager\\viewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AB40B3AE-6C9A-B1E1-B01B-22B1E324FC0E}|Assembly-CSharp.csproj|c:\\work\\ui\\assets\\scripts\\ui\\main\\mainviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB40B3AE-6C9A-B1E1-B01B-22B1E324FC0E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\main\\mainviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB40B3AE-6C9A-B1E1-B01B-22B1E324FC0E}|Assembly-CSharp.csproj|c:\\work\\ui\\assets\\scripts\\ui\\main\\mainviewstarter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB40B3AE-6C9A-B1E1-B01B-22B1E324FC0E}|Assembly-CSharp.csproj|c:\\work\\ui\\assets\\scripts\\ui\\main\\adddevicewindowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB40B3AE-6C9A-B1E1-B01B-22B1E324FC0E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\main\\adddevicewindowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB40B3AE-6C9A-B1E1-B01B-22B1E324FC0E}|Assembly-CSharp.csproj|c:\\work\\ui\\assets\\scripts\\ui\\main\\yeswindowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB40B3AE-6C9A-B1E1-B01B-22B1E324FC0E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\main\\yeswindowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB40B3AE-6C9A-B1E1-B01B-22B1E324FC0E}|Assembly-CSharp.csproj|C:\\Work\\UI\\assets\\scripts\\ui\\main\\mainviewstarter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB40B3AE-6C9A-B1E1-B01B-22B1E324FC0E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\main\\mainviewstarter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB40B3AE-6C9A-B1E1-B01B-22B1E324FC0E}|Assembly-CSharp.csproj|c:\\work\\ui\\assets\\scripts\\appmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB40B3AE-6C9A-B1E1-B01B-22B1E324FC0E}|Assembly-CSharp.csproj|C:\\Work\\UI\\assets\\scripts\\appmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB40B3AE-6C9A-B1E1-B01B-22B1E324FC0E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\appmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB40B3AE-6C9A-B1E1-B01B-22B1E324FC0E}|Assembly-CSharp.csproj|c:\\work\\ui\\assets\\scripts\\ui\\tooltip\\tooltip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB40B3AE-6C9A-B1E1-B01B-22B1E324FC0E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\tooltip\\tooltip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB40B3AE-6C9A-B1E1-B01B-22B1E324FC0E}|Assembly-CSharp.csproj|C:\\Work\\UI\\assets\\scripts\\windowsmanager\\windowsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB40B3AE-6C9A-B1E1-B01B-22B1E324FC0E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\windowsmanager\\windowsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB40B3AE-6C9A-B1E1-B01B-22B1E324FC0E}|Assembly-CSharp.csproj|c:\\work\\ui\\assets\\scripts\\windowsmanager\\iwindowstarter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB40B3AE-6C9A-B1E1-B01B-22B1E324FC0E}|Assembly-CSharp.csproj|C:\\Work\\UI\\assets\\scripts\\windowsmanager\\viewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB40B3AE-6C9A-B1E1-B01B-22B1E324FC0E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\windowsmanager\\viewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB40B3AE-6C9A-B1E1-B01B-22B1E324FC0E}|Assembly-CSharp.csproj|C:\\Work\\UI\\assets\\scripts\\windowsmanager\\iwindowstarter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB40B3AE-6C9A-B1E1-B01B-22B1E324FC0E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\windowsmanager\\iwindowstarter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -47,25 +51,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MainViewController.cs",
+              "DocumentMoniker": "C:\\Work\\UI\\Assets\\Scripts\\UI\\Main\\MainViewController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Main\\MainViewController.cs",
+              "ToolTip": "C:\\Work\\UI\\Assets\\Scripts\\UI\\Main\\MainViewController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Main\\MainViewController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T19:51:08.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "YesWindowController.cs",
+              "DocumentMoniker": "C:\\Work\\UI\\Assets\\Scripts\\UI\\Main\\YesWindowController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Main\\YesWindowController.cs",
+              "ToolTip": "C:\\Work\\UI\\Assets\\Scripts\\UI\\Main\\YesWindowController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Main\\YesWindowController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T16:10:54.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddDeviceWindowController.cs",
+              "DocumentMoniker": "C:\\Work\\UI\\Assets\\Scripts\\UI\\Main\\AddDeviceWindowController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Main\\AddDeviceWindowController.cs",
+              "ToolTip": "C:\\Work\\UI\\Assets\\Scripts\\UI\\Main\\AddDeviceWindowController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Main\\AddDeviceWindowController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwB8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T15:10:07.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "WindowsManager.cs",
               "DocumentMoniker": "C:\\Work\\UI\\Assets\\Scripts\\WindowsManager\\WindowsManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\WindowsManager\\WindowsManager.cs",
               "ToolTip": "C:\\Work\\UI\\Assets\\Scripts\\WindowsManager\\WindowsManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\WindowsManager\\WindowsManager.cs",
-              "ViewState": "AgIAADkBAAAAAAAAAAAAAEwBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHUBAAAAAAAAAAAkwIUBAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-22T14:31:25.072Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "ViewController.cs",
               "DocumentMoniker": "C:\\Work\\UI\\Assets\\Scripts\\WindowsManager\\ViewController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\WindowsManager\\ViewController.cs",
               "ToolTip": "C:\\Work\\UI\\Assets\\Scripts\\WindowsManager\\ViewController.cs",
               "RelativeToolTip": "Assets\\Scripts\\WindowsManager\\ViewController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAPIBAAAAAAAAAAAawOEBAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-22T14:31:05.391Z",
               "EditorCaption": ""
@@ -85,13 +128,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "IWindowStarter.cs",
               "DocumentMoniker": "C:\\Work\\UI\\Assets\\Scripts\\WindowsManager\\IWindowStarter.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\WindowsManager\\IWindowStarter.cs",
               "ToolTip": "C:\\Work\\UI\\Assets\\Scripts\\WindowsManager\\IWindowStarter.cs",
               "RelativeToolTip": "Assets\\Scripts\\WindowsManager\\IWindowStarter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-22T13:52:23.237Z",
               "EditorCaption": ""
@@ -104,35 +147,9 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\AppManager.cs",
               "ToolTip": "C:\\Work\\UI\\Assets\\Scripts\\AppManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\AppManager.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAiwAwAAABYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-22T13:52:04.438Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainViewController.cs",
-              "DocumentMoniker": "C:\\Work\\UI\\Assets\\Scripts\\UI\\Main\\MainViewController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Main\\MainViewController.cs",
-              "ToolTip": "C:\\Work\\UI\\Assets\\Scripts\\UI\\Main\\MainViewController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI\\Main\\MainViewController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T13:50:46.12Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Tooltip.cs",
-              "DocumentMoniker": "C:\\Work\\UI\\Assets\\Scripts\\UI\\Tooltip\\Tooltip.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Tooltip\\Tooltip.cs",
-              "ToolTip": "C:\\Work\\UI\\Assets\\Scripts\\UI\\Tooltip\\Tooltip.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI\\Tooltip\\Tooltip.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAowCoAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T13:14:01.795Z",
               "EditorCaption": ""
             }
           ]
